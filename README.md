@@ -18,9 +18,9 @@
 ### 👨‍💻About Me:
 - 🔎 I'm looking to working as junior front-end developer
 - 📖 I'm currently taking courses in The Rolling Scopes School. Some study projects:
-  - [Shelter](https://rolling-scopes-school.github.io/kzhukow-JSFE2023Q1/shelter/main/main.html)
-  - [Virtual Keyboard](https://kzhukow.github.io/virtual-keyboard/)
-  - [Minesweeper](https://rolling-scopes-school.github.io/kzhukow-JSFE2023Q1/minesweeper/)
+  - [Shelter](https://github.com/KZhukow/shelter)
+  - [Virtual Keyboard](https://github.com/KZhukow/virtual-keyboard)
+  - [Minesweeper](https://github.com/KZhukow/minesweeper)
   - [Online store](https://rolling-scopes-school.github.io/kzhukow-JSFE2022Q1/online-store/index.html)
   - [RS Lang](https://rslang-kzhukow.netlify.app/)
 - 🎬 Hobby: music 🎧 | cycling 🚴 | walking 🚶‍♂️ | movies 📽️
